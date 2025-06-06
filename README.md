@@ -10,8 +10,6 @@
 
 - 🌱 Learning Goal: Currently learning everything that helps me grow in my career.
 
-- 💞️ Collaboration: Open to collaborating on Software Engineering and Database projects.
-
 - 💻 Experience: Hands-on experience as a Backend Engineer.
 
 
