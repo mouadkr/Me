@@ -4,9 +4,17 @@
 # Hello I'm Mouad Kadmar.👋
 
 
-- 👀 I’m interested in IT
-- 🌱 Currently I am learning everything that can help me in my career 
-- 💞️ I’m looking to collaborate on Software Engineering or databases projects.
+# 👤 About Me
+
+- 👀 Interest: Passionate about IT and software engineering.
+
+- 🌱 Learning Goal: Currently learning everything that helps me grow in my career.
+
+- 💞️ Collaboration: Open to collaborating on Software Engineering and Database projects.
+
+- 💻 Experience: Hands-on experience as a Backend Engineer.
+
+
 
 # Contact 
 * ✔ [LinkedIn](https://www.linkedin.com/in/kadmar-mouad-835b16280/)
